@@ -1,0 +1,38 @@
+
+.swal2-content {
+    font-size: 14px !important;
+    margin-top: 10px !important;
+    /* color: #fff !important; */
+}
+
+.alert {
+    color: #fff !important;
+}
+
+.widget-data {
+    width: 100% !important;
+}
+
+.swal2-popup {
+    width: 26em !important;
+    /* background: #5b15ad !important; */
+    /* background: #283c76 !important; */
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.swal2-header {
+    padding: 0rem;
+}
+
+.swal2-title {
+    font-size: 0.875em !important;
+    /* color: #fff !important; */
+}
+
+.swal2-styled.swal2-confirm, .swal2-styled.swal2-cancel {
+    padding: 0.122rem 1.75rem !important;
+    font-size: 13px !important;
+}
